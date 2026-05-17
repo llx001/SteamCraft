@@ -1,0 +1,27 @@
+{
+	"required": true,
+	"package": "eu.steamcraft.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+	        "AbstractFurnaceBlockEntityMixin",
+	        "PlayerInventoryMixin",
+	        "PlayerEntityFoodMixin",
+	        "TorchBlockMixin",
+	        "CropBlockMixin",
+	        "SpreadableBlockMixin",
+	        "LeavesBlockMixin",
+	        "CampfireBlockMixin",
+	        "FireBlockMixin",
+	        "BrewingStandMixin",
+	        "ComposterBlockMixin"
+	],
+	"client": [
+		"HeldItemRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Food Pouch",
+  "icon": "steamcraft:food_pouch",
+  "category": "steamcraft:food",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:food_pouch",
+      "title": "Food Pouch",
+      "text": "The Food Pouch is a portable container that slows food spoilage. Food stored inside ages at $(bold)half the normal speed$() — so a 4-day food lasts 8 days instead. It requires no power and fits in your inventory."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Using the Pouch",
+      "text": "Right-click the Food Pouch to open it. It holds 9 food items. Great for long adventures where you can't keep a fridge nearby. The pouch works as long as you're carrying it — it checks once per day."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:food_pouch",
+      "text": "A great companion for any explorer."
+    }
+  ]
+}

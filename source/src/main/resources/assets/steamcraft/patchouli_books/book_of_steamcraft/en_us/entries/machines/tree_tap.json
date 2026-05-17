@@ -1,0 +1,29 @@
+{
+  "name": "Tree Tap",
+  "icon": "steamcraft:tree_tap",
+  "category": "steamcraft:machines",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:tree_tap",
+      "title": "Tree Tap",
+      "text": "The Tree Tap extracts $(bold)Rubber Sap$() from logs. Place it against the side of any log and wait. It will slowly drill into the log and collect sap, then move on to the next log. No energy required!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How It Works",
+      "text": "The Tree Tap drills into the log over several cycles, collecting sap each time. After 4 collections it destroys the log and stops. Right-click to collect the sap from the output slot, or place a hopper beneath it to collect automatically."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rubber Chain",
+      "text": "Rubber Sap is processed into $(bold)Rubber$(). Rubber is used to craft hazmat gear, wiring, and other industrial components. Plant rubber trees or keep a forest nearby for a steady supply."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:tree_tap",
+      "text": "Place it against the side of any log."
+    }
+  ]
+}

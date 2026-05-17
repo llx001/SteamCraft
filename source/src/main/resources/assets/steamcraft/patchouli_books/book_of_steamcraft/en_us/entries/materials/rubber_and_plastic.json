@@ -1,0 +1,54 @@
+{
+  "name": "Rubber & Plastic",
+  "icon": "steamcraft:plastic_sheet",
+  "category": "steamcraft:materials",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:rubber_sap",
+      "title": "Rubber Sap",
+      "text": "Rubber Sap is collected by the $(bold)Tree Tap$(). Place the Tap against the side of any log and wait — it drills in over several cycles and fills up with sap. Use a hopper to collect it automatically."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "steamcraft:rubber_from_smelting_rubber_sap",
+      "text": "Smelt Rubber Sap to get Rubber. A Blast Furnace works faster."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "steamcraft:plastic_sheet_from_smelting_rubber",
+      "text": "Smelt Rubber a second time to get Plastic Sheet — the base material for plastic tools and armour."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Plastic Tools",
+      "text": "Plastic tools are fast and cheap — great for getting started. They have $(bold)100 durability$() and $(bold)8.0 mining speed$(). The downside is they cannot be enchanted. When they break, toss them in the $(bold)Recycler$() to recover a Plastic Sheet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:plastic_pickaxe",
+      "text": "Plastic pickaxe."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:plastic_sword",
+      "text": "Same pattern for axe, shovel, and hoe."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Plastic Armour",
+      "text": "Plastic armour gives $(bold)2 / 4 / 6 / 2 defence$() for helmet, chestplate, leggings, and boots. Repair it with $(bold)Plastic Sheet$() at an anvil. It is lightweight protection while you work toward hazmat gear or steel."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:plastic_helmet",
+      "text": "Plastic helmet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:plastic_chestplate",
+      "text": "Same pattern for leggings and boots."
+    }
+  ]
+}

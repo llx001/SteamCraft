@@ -1,0 +1,24 @@
+{
+  "name": "Air Scrubber",
+  "icon": "steamcraft:air_scrubber",
+  "category": "steamcraft:air_quality",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:air_scrubber",
+      "title": "Air Scrubber",
+      "text": "The Air Scrubber actively cleans the air around it. It removes CO2, toxins, and microplastics in a 4-block radius every second, as long as it has power. It uses $(bold)40 FE every 20 ticks$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Placement Tips",
+      "text": "Place Air Scrubbers near your furnaces and in enclosed rooms. Connect them to a Power Bank so they keep working. The more scrubbers you have, the faster the air cleans up. Use the Environmental Monitor to check if your scrubbers are working!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:air_scrubber",
+      "text": "One scrubber can clean a small room. Use several for larger spaces."
+    }
+  ]
+}

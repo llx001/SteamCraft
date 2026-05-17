@@ -1,0 +1,35 @@
+{
+  "name": "Preserved Foods",
+  "icon": "steamcraft:beef_jerky",
+  "category": "steamcraft:food",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Preserved Foods",
+      "text": "SteamCraft adds two special foods that last much longer than ordinary food. $(bold)Beef Jerky$() and the $(bold)MRE$() are both great for long adventures where you cannot keep a fridge nearby."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:beef_jerky",
+      "title": "Beef Jerky",
+      "text": "Beef Jerky restores $(bold)4 hunger$() and has a good shelf life. It is made by cooking Cooked Beef a second time in a furnace — the extra heat removes all the moisture, so it keeps much longer."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "steamcraft:beef_jerky_from_smelting_cooked_beef",
+      "text": "Smelt Cooked Beef to dry it into Beef Jerky."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:mre",
+      "title": "MRE",
+      "text": "The MRE (Meal Ready to Eat) is a high-calorie pack that restores $(bold)10 hunger$() and $(bold)2.0 saturation$(). It is very filling and lasts a long time. Great for dangerous expeditions into the Nether or deep caves."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:mre",
+      "text": "Combine preserved foods and materials to craft an MRE."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Fridge",
+  "icon": "steamcraft:fridge",
+  "category": "steamcraft:food",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:fridge",
+      "title": "Fridge",
+      "text": "The Fridge keeps food fresh indefinitely as long as it has power. Food stored inside doesn't age at all while the fridge is powered. It costs $(bold)16 FE per food item per day$(), so one Power Bank can keep it running for a very long time."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Using the Fridge",
+      "text": "Right-click to open the fridge. It has $(bold)54 slots$() — enough for a lot of food! Connect a Power Bank next to it to keep it powered. You'll hear a quiet hum when it's running. If it runs out of power, food starts aging normally again."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tip",
+      "text": "The fridge only accepts food items. Put it near your crops or kitchen area and stock it up early. A fully solar-powered fridge will keep your food fresh for free — that's a smart, clean solution!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:fridge",
+      "text": "The fridge keeps its energy when you pick it up."
+    }
+  ]
+}

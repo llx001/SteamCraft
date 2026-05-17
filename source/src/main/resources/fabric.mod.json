@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "steamcraft",
+	"version": "${version}",
+	"name": "SteamCraft",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/steamcraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"eu.steamcraft.SteamCraft"
+		],
+        "client": [
+          "eu.steamcraft.SteamCraftClient"
+        ],
+		"fabric-datagen": [
+			"eu.steamcraft.SteamCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"steamcraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

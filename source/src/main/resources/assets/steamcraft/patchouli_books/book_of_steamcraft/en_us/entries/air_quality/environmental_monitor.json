@@ -1,0 +1,24 @@
+{
+  "name": "Environmental Monitor",
+  "icon": "steamcraft:environmental_monitor",
+  "category": "steamcraft:air_quality",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:environmental_monitor",
+      "title": "Environmental Monitor",
+      "text": "The Environmental Monitor scans the air quality in an 8x8 area around it. Right-click to trigger a scan. It costs $(bold)200 FE$() per scan, so make sure it's powered by a battery first."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Reading the Scan",
+      "text": "After scanning, a colour-coded grid appears on your screen for a few seconds. Each colour shows how polluted that area is — from clean to heavily polluted. Use this to find pollution hotspots and decide where to place Air Scrubbers."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:environmental_monitor",
+      "text": "Place it near a Power Bank to keep it charged."
+    }
+  ]
+}

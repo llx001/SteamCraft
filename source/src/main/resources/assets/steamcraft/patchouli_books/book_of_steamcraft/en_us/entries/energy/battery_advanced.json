@@ -1,0 +1,19 @@
+{
+  "name": "Advanced Power Bank",
+  "icon": "steamcraft:battery_advanced",
+  "category": "steamcraft:energy",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:battery_advanced",
+      "title": "Advanced Power Bank",
+      "text": "The Advanced Power Bank is a stronger version that stores up to $(bold)200,000 FE$(). It also charges faster from sunlight — $(bold)20 FE per tick$() — four times faster than the basic Power Bank."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:battery_advanced",
+      "text": "Use this to power multiple machines at once or store energy for the night."
+    }
+  ]
+}

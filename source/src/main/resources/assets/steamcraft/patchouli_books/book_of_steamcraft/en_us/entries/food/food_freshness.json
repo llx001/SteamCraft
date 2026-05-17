@@ -1,0 +1,28 @@
+{
+  "name": "Food Freshness",
+  "icon": "minecraft:apple",
+  "category": "steamcraft:food",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Food Goes Bad!",
+      "text": "In SteamCraft, food doesn't last forever. Every food item has a freshness that decreases over time. Watch the colour of your food — $(bold)white means fresh$(), $(bold)green means getting old$(), and $(bold)dark means expired$(). Expired food makes you feel sick!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Effects of Eating Expired Food",
+      "text": "Eating expired food gives you less hunger and saturation — sometimes as little as a quarter of the normal amount. You may also get $(bold)Nausea$() and $(bold)Slowness$() depending on how old the food is. The older it is, the worse it gets."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Different Foods, Different Lifespans",
+      "text": "Some foods last much longer than others. Honey lasts 60 days. Dried kelp lasts 30 days. Cooked meat only lasts 4 days. Raw meat is even shorter at 3 days. Cook or preserve your food to make it last!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Food Goes Bad — Then Rots!",
+      "text": "When food expires it automatically turns into $(bold)Rotten Food$() inside your inventory. Rotten Food can't be eaten safely, but it isn't wasted — bring it to the $(bold)Recycler$() to turn it into $(bold)Biomass$(), which works like bonemeal for your crops!"
+    }
+  ]
+}

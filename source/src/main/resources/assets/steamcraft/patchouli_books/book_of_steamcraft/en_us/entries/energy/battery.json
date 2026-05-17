@@ -1,0 +1,29 @@
+{
+  "name": "Power Bank",
+  "icon": "steamcraft:battery",
+  "category": "steamcraft:energy",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:battery",
+      "title": "Power Bank",
+      "text": "The Power Bank stores up to $(bold)50,000 FE$() of energy. Place it in the open with clear sky above it to charge it using $(bold)solar power$() — 5 FE every tick, for free! It automatically shares energy with machines placed next to it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Charging Items",
+      "text": "You can also put an Electric Torch or Portable Scanner into the Power Bank's slot to charge it directly. It charges items at 100 FE per tick. Open the Power Bank's interface by right-clicking it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Solar Charging",
+      "text": "Solar charging only works during the day with a clear sky above the Power Bank. The block above it must be open to sky light. This is free, clean energy — no fuel needed, no pollution! Place your Power Banks on rooftops for best results."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:battery",
+      "text": "The Power Bank keeps its stored energy when you pick it up."
+    }
+  ]
+}

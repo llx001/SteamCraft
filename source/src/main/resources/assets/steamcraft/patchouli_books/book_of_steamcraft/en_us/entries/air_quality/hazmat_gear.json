@@ -1,0 +1,36 @@
+{
+  "name": "Hazmat Gear",
+  "icon": "steamcraft:hazmat_helmet",
+  "category": "steamcraft:air_quality",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Hazmat Gear",
+      "text": "Hazmat gear protects you from polluted air. Wearing the full set makes you immune to CO2 damage, toxin poisoning, and microplastic slowness. It also shows you an air quality display — three bars for CO2, Oxygen, and Toxins."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:hazmat_helmet",
+      "title": "Hazmat Helmet",
+      "text": "The most important piece. The helmet filters the air you breathe and enables the air quality HUD. Even just wearing the helmet provides full air protection."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:hazmat_helmet",
+      "text": "Craft using rubber and other materials."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:hazmat_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:hazmat_leggings"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:hazmat_boots"
+    }
+  ]
+}

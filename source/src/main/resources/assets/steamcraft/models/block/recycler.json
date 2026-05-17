@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "steamcraft:block/recycler_front",
+    "south": "steamcraft:block/recycler_back",
+    "east":  "steamcraft:block/recycler_side",
+    "west":  "steamcraft:block/recycler_side",
+    "up":    "steamcraft:block/recycler_top",
+    "down":  "steamcraft:block/recycler_bottom"
+  }
+}

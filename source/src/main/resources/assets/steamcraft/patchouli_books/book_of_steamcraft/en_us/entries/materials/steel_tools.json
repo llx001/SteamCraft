@@ -1,0 +1,29 @@
+{
+  "name": "Steel Tools",
+  "icon": "steamcraft:steel_pickaxe",
+  "category": "steamcraft:materials",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Steel Tools",
+      "text": "Steel tools are the best tools in SteamCraft. They have $(bold)500 durability$() and a good enchantability of $(bold)20$(). They are made by upgrading iron tools at a $(bold)Smithing Table$() using a $(bold)Steel Ingot$() as the upgrade material."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How to Upgrade",
+      "text": "Open the Smithing Table. Place your $(bold)Iron Tool$() in the first slot, a $(bold)Steel Ingot$() template in the middle, and confirm. The result is the steel version of that tool. You can upgrade the pickaxe, axe, shovel, hoe, and sword."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:steel_pickaxe",
+      "title": "Steel Pickaxe",
+      "text": "500 durability, 5.0 mining speed, enchantability 20. Upgrade from any iron pickaxe."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tip",
+      "text": "Steel tools mine at the same speed as diamond but last longer than iron. They are a great middle-ground before you have full diamond gear. Don't forget to recycle broken steel tools in the $(bold)Recycler$() — you'll get a Steel Ingot back (with 70% success)."
+    }
+  ]
+}

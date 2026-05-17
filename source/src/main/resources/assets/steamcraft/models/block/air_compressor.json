@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "steamcraft:block/air_compressor_front",
+    "south": "steamcraft:block/air_compressor_front",
+    "east":  "steamcraft:block/air_compressor_side",
+    "west":  "steamcraft:block/air_compressor_side",
+    "up":    "steamcraft:block/air_compressor_top",
+    "down":  "steamcraft:block/air_compressor_bottom"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "itemgroup.steamcraft.steamcraft_items_group_items": "SteamCraft Items",
+  "itemgroup.steamcraft.steamcraft_items_group_blocks": "SteamCraft Blocks",
+
+  "item.steamcraft.beef_jerky": "Beef Jerky",
+  "item.steamcraft.beef_jerky.tooltip": "A tasty snack to keep you going on long journeys.",
+
+  "item.steamcraft.mre": "MRE (Meal, Ready-to-Eat)",
+  "item.steamcraft.mre.tooltip": "A compact meal packed with nutrients for adventurers.",
+
+  "item.steamcraft.rotten_food": "Rotten Food",
+  "item.steamcraft.rotten_food.tooltip": "Spoiled beyond saving. Not safe to eat.",
+
+  "item.steamcraft.circuit_board": "Circuit Board",
+  "item.steamcraft.circuit_board.tooltip": "The brain of modern machinery.",
+
+  "item.steamcraft.wire": "Wire",
+  "item.steamcraft.wire.tooltip": "Conducts power between components.",
+
+  "item.steamcraft.plastic_sheet": "Plastic Sheet",
+  "item.steamcraft.plastic_sheet.tooltip": "Lightweight, flexible, and surprisingly durable.",
+
+  "item.steamcraft.rubber_sap": "Rubber Sap",
+  "item.steamcraft.rubber_sap.tooltip": "Sticky sap tapped from rubber trees.",
+
+  "item.steamcraft.rubber": "Rubber",
+  "item.steamcraft.rubber.tooltip": "Elastic material used in machines and armor.",
+
+  "item.steamcraft.biomass": "Biomass",
+  "item.steamcraft.biomass.tooltip": "Compressed organic matter. Useful as fuel or fertilizer.",
+
+  "item.steamcraft.food_pouch": "Food Pouch",
+  "item.steamcraft.food_pouch.tooltip": "Keeps food fresh twice as long.",
+
+  "item.steamcraft.iron_plate": "Iron Plate",
+  "item.steamcraft.iron_plate.tooltip": "Flattened iron used in construction.",
+
+  "item.steamcraft.iron_rod": "Iron Rod",
+  "item.steamcraft.iron_rod.tooltip": "Reinforcement material for machines and tools.",
+
+  "item.steamcraft.copper_coil": "Copper Coil",
+  "item.steamcraft.copper_coil.tooltip": "Essential for electrical components.",
+
+  "item.steamcraft.copper_plate": "Copper Plate",
+  "item.steamcraft.copper_plate.tooltip": "Shaped copper for advanced crafting.",
+
+  "item.steamcraft.copper_rod": "Copper Rod",
+  "item.steamcraft.copper_rod.tooltip": "Conductive structural component.",
+
+  "item.steamcraft.steel_ingot": "Steel Ingot",
+  "item.steamcraft.steel_ingot.tooltip": "Refined alloy stronger than iron.",
+
+  "item.steamcraft.steel_plate": "Steel Plate",
+  "item.steamcraft.steel_plate.tooltip": "Heavy-duty structural material.",
+
+  "item.steamcraft.steel_rod": "Steel Rod",
+  "item.steamcraft.steel_rod.tooltip": "High-strength reinforcement component.",
+
+  "item.steamcraft.plastic_axe": "Plastic Axe",
+  "item.steamcraft.plastic_axe.tooltip": "Lightweight, but not very durable.",
+
+  "item.steamcraft.plastic_pickaxe": "Plastic Pickaxe",
+  "item.steamcraft.plastic_pickaxe.tooltip": "Can mine basic blocks. Barely.",
+
+  "item.steamcraft.plastic_shovel": "Plastic Shovel",
+  "item.steamcraft.plastic_shovel.tooltip": "Efficient at digging soft materials.",
+
+  "item.steamcraft.plastic_hoe": "Plastic Hoe",
+  "item.steamcraft.plastic_hoe.tooltip": "Good enough for light farming tasks.",
+
+  "item.steamcraft.plastic_sword": "Plastic Sword",
+  "item.steamcraft.plastic_sword.tooltip": "More intimidating than effective.",
+
+  "item.steamcraft.steel_axe": "Steel Axe",
+  "item.steamcraft.steel_axe.tooltip": "Heavy and sharp. Makes short work of wood.",
+
+  "item.steamcraft.steel_pickaxe": "Steel Pickaxe",
+  "item.steamcraft.steel_pickaxe.tooltip": "Mines hard materials with ease.",
+
+  "item.steamcraft.steel_shovel": "Steel Shovel",
+  "item.steamcraft.steel_shovel.tooltip": "Digs through earth and gravel quickly.",
+
+  "item.steamcraft.steel_hoe": "Steel Hoe",
+  "item.steamcraft.steel_hoe.tooltip": "Tills soil faster than iron.",
+
+  "item.steamcraft.steel_sword": "Steel Sword",
+  "item.steamcraft.steel_sword.tooltip": "A reliable blade for tough encounters.",
+
+  "item.steamcraft.portable_scanner": "Portable Scanner",
+  "item.steamcraft.portable_scanner.tooltip": "Analyzes air quality and nearby materials.",
+
+  "item.steamcraft.plastic_helmet": "Plastic Helmet",
+  "item.steamcraft.plastic_helmet.tooltip": "Light head protection. Better than nothing.",
+
+  "item.steamcraft.plastic_chestplate": "Plastic Chestplate",
+  "item.steamcraft.plastic_chestplate.tooltip": "Lightweight chest protection.",
+
+  "item.steamcraft.plastic_leggings": "Plastic Leggings",
+  "item.steamcraft.plastic_leggings.tooltip": "Lightweight leg protection.",
+
+  "item.steamcraft.plastic_boots": "Plastic Boots",
+  "item.steamcraft.plastic_boots.tooltip": "Light foot protection.",
+
+  "item.steamcraft.hazmat_helmet": "Hazmat Helmet",
+  "item.steamcraft.hazmat_helmet.tooltip": "Filters toxic air. Wear this in polluted areas.",
+
+  "item.steamcraft.hazmat_chestplate": "Hazmat Suit",
+  "item.steamcraft.hazmat_chestplate.tooltip": "Protects against chemical exposure.",
+
+  "item.steamcraft.hazmat_leggings": "Hazmat Leggings",
+  "item.steamcraft.hazmat_leggings.tooltip": "Sealed leg protection for hazardous environments.",
+
+  "item.steamcraft.hazmat_boots": "Hazmat Boots",
+  "item.steamcraft.hazmat_boots.tooltip": "Chemical-resistant foot protection.",
+
+  "block.steamcraft.electric_torch": "Electric Torch",
+  "item.steamcraft.electric_torch.tooltip": "Produces light using stored energy. Needs recharging.",
+
+  "block.steamcraft.battery": "Power Bank",
+  "block.steamcraft.battery_advanced": "Advanced Power Bank",
+
+  "block.steamcraft.environmental_monitor": "Environmental Monitor",
+  "block.steamcraft.recycler": "Recycler",
+"block.steamcraft.air_scrubber": "Air Scrubber",
+  "block.steamcraft.fridge": "Fridge",
+  "block.steamcraft.tree_tap": "Tree Tap",
+  "block.steamcraft.rich_soil": "Rich Soil",
+  "block.steamcraft.poisoned_soil": "Poisoned Soil",
+
+  "gamerule.steamcraftPlantAirEnabled": "Plant Air Stress Enabled",
+  "gamerule.steamcraftPlantAirEnabled.description": "Enable crop/grass/leaves reactions to local CO2 and toxins.",
+  "gamerule.steamcraftPlantAirCo2Slowed": "Plant CO2 Slowed Threshold",
+  "gamerule.steamcraftPlantAirCo2Slowed.description": "CO2 level where plant growth starts slowing.",
+  "gamerule.steamcraftPlantAirCo2Blocked": "Plant CO2 Blocked Threshold",
+  "gamerule.steamcraftPlantAirCo2Blocked.description": "CO2 level where plant growth is fully blocked.",
+  "gamerule.steamcraftPlantAirCo2Severe": "Plant CO2 Severe Threshold",
+  "gamerule.steamcraftPlantAirCo2Severe.description": "CO2 level where severe plant damage starts.",
+  "gamerule.steamcraftPlantAirToxinSlowed": "Plant Toxin Slowed Threshold",
+  "gamerule.steamcraftPlantAirToxinSlowed.description": "Toxin level where plant growth starts slowing.",
+  "gamerule.steamcraftPlantAirToxinBlocked": "Plant Toxin Blocked Threshold",
+  "gamerule.steamcraftPlantAirToxinBlocked.description": "Toxin level where plant growth is fully blocked.",
+  "gamerule.steamcraftPlantAirToxinSevere": "Plant Toxin Severe Threshold",
+  "gamerule.steamcraftPlantAirToxinSevere.description": "Toxin level where severe plant damage starts.",
+  "gamerule.steamcraftPlantAirSlowedCancelChance": "Plant Slowed Tick Cancel Chance",
+  "gamerule.steamcraftPlantAirSlowedCancelChance.description": "Percent chance to cancel a plant random tick while slowed.",
+  "gamerule.steamcraftPlantAirSevereCropDeathChance": "Plant Severe Crop Death Chance",
+  "gamerule.steamcraftPlantAirSevereCropDeathChance.description": "Percent chance a stage-0 crop dies in severe air.",
+  "gamerule.steamcraftPlantAirSevereGrassDecayChance": "Plant Severe Grass Decay Chance",
+  "gamerule.steamcraftPlantAirSevereGrassDecayChance.description": "Percent chance grass block decays to dirt in severe air.",
+  "gamerule.steamcraftPlantAirSevereLeafDecayChance": "Plant Severe Leaf Decay Chance",
+  "gamerule.steamcraftPlantAirSevereLeafDecayChance.description": "Percent chance non-persistent leaves decay in severe air."
+}

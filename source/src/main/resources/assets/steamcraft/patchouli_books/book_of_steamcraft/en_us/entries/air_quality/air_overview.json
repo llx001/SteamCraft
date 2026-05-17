@@ -1,0 +1,33 @@
+{
+  "name": "Air Quality",
+  "icon": "steamcraft:portable_scanner",
+  "category": "steamcraft:air_quality",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "What Is Air Quality?",
+      "text": "The air in SteamCraft is tracked in three ways: $(bold)CO2$(), $(bold)Toxins$(), and $(bold)Microplastics$(). Each one builds up from different sources and causes different problems. The cleaner the air, the healthier you and your world will be."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "CO2 (Carbon Dioxide)",
+      "text": "CO2 builds up when you breathe, when mobs are nearby, and when furnaces run. When CO2 gets too high (above 60), you start taking damage. It also kills torches — they go out when there's too much CO2 in the air!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Toxins",
+      "text": "Toxins come from lava, polluted biomes, and industrial processes like smelting. If toxins rise above 40, you'll get poisoned. Toxins also harm your crops, slowing or even killing them."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Microplastics",
+      "text": "Microplastics are tiny plastic particles that build up in the environment. They cause slowness when levels get too high. Unlike CO2 and toxins, microplastics don't decay as quickly — so be careful about how much plastic you use."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Good News!",
+      "text": "Air quality naturally improves over time through decay and ventilation. Trees and leaves absorb CO2. You can speed up recovery with the $(bold)Air Scrubber$(). The Nether, however, is always maximally polluted — wear protection!"
+    }
+  ]
+}

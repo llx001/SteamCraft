@@ -1,0 +1,18 @@
+{
+  "name": "Crafting Tiers",
+  "icon": "steamcraft:steel_ingot",
+  "category": "steamcraft:materials",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Material Tiers",
+      "text": "SteamCraft adds new materials organised in tiers. Start with $(bold)Plastic$() for cheap early tools. Move up to $(bold)Steel$() for tougher equipment. You will also need $(bold)Copper$() components and $(bold)Electronics$() to build advanced machines."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Crafting Chain",
+      "text": "Everything starts from raw resources. The $(bold)Tree Tap$() gives you Rubber Sap. A furnace turns sap into Rubber, then Rubber into Plastic Sheet. A $(bold)Blast Furnace$() turns Iron into Steel. Use a $(bold)Stonecutter$() to slice ingots and plates into rods and flat sheets."
+    }
+  ]
+}

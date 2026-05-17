@@ -1,0 +1,34 @@
+{
+  "name": "Biomass & Soils",
+  "icon": "steamcraft:biomass",
+  "category": "steamcraft:machines",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:biomass",
+      "title": "Biomass",
+      "text": "Biomass is an organic material that works just like $(bold)Bonemeal$() — use it to speed up crop growth and spread grass. It is a great way to close the loop: waste from animals and food becomes fuel for your farm."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Where Does It Come From?",
+      "text": "Biomass drops from farm animals — cows, pigs, sheep, chickens, and rabbits all have a $(bold)50% chance$() to drop one Biomass when killed. It also comes out of the $(bold)Recycler$() when you feed it expired food. Nothing goes to waste!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rich Soil",
+      "text": "$(bold)Rich Soil$() is fertile ground that helps your base stay safe and productive. Hostile mobs cannot spawn on it. Crops growing above it get a free growth boost every few seconds — like a permanent slow bonemeal. In clean air it slowly spreads to nearby dirt."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Poisoned Soil",
+      "text": "$(bold)Poisoned Soil$() is contaminated ground created by heavy pollution. Walking on it poisons you. Any plant growing above it slowly dies. It constantly leaches toxins into the air and spreads to nearby dirt when pollution is bad. Clean the air to make it disappear over time."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Warning",
+      "text": "Poisoned Soil can also spawn $(bold)Zombies$() nearby when it is dark and the air is polluted. Build with Rich Soil floors and keep your Air Scrubbers running to stay safe!"
+    }
+  ]
+}

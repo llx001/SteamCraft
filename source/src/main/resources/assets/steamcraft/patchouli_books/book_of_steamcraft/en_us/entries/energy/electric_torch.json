@@ -1,0 +1,24 @@
+{
+  "name": "Electric Torch",
+  "icon": "steamcraft:electric_torch",
+  "category": "steamcraft:energy",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:electric_torch",
+      "title": "Electric Torch",
+      "text": "The Electric Torch lights up using stored energy instead of burning. It holds up to $(bold)10,000 FE$() and drains $(bold)1 FE per tick$() while lit. Unlike regular torches, it won't go out from CO2 — as long as it has power."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Using It",
+      "text": "Place a Power Bank next to the Electric Torch to keep it charged automatically. $(bold)Right-click$() to check how much energy it has left. $(bold)Sneak + right-click$() to turn it on or off without breaking it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:electric_torch",
+      "text": "Charge it in a Power Bank before placing, or place a Power Bank right next to it."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "steamcraft:block/air_scrubber_front",
+    "south": "steamcraft:block/air_scrubber_back",
+    "east":  "steamcraft:block/air_scrubber_side",
+    "west":  "steamcraft:block/air_scrubber_side",
+    "up":    "steamcraft:block/air_scrubber_top",
+    "down":  "steamcraft:block/air_scrubber_bottom"
+  }
+}

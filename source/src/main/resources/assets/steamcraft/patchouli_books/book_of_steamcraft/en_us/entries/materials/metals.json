@@ -1,0 +1,48 @@
+{
+  "name": "Metals",
+  "icon": "steamcraft:iron_plate",
+  "category": "steamcraft:materials",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Plates & Rods",
+      "text": "The $(bold)Stonecutter$() lets you turn ingots into flat $(bold)Plates$() and thin $(bold)Rods$(). These are needed for machine recipes. Copper and iron both follow the same pattern: ingot → plate → rod."
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "steamcraft:iron_plate_from_iron_ingot_stonecutting",
+      "text": "Iron Plate from the Stonecutter."
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "steamcraft:iron_rod_from_iron_ingot_stonecutting",
+      "text": "Iron Rod directly from an ingot, or from a plate."
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "steamcraft:copper_plate_from_copper_ingot_stonecutting",
+      "text": "Copper Plate — needed for Copper Coils and machine parts."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:copper_coil",
+      "text": "Copper Coil — made from Copper Rods. Used in electronics."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Steel",
+      "text": "$(bold)Steel$() is the strongest crafted metal. Smelt Iron Ingots in a $(bold)Blast Furnace$() to get Steel Ingots. Then use the Stonecutter to make Steel Plates and Rods. Steel is used to upgrade tools and build advanced machines."
+    },
+    {
+      "type": "patchouli:blasting",
+      "recipe": "steamcraft:steel_ingot_from_blasting_iron_ingot",
+      "text": "Blast Furnace required — much faster than a regular furnace."
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "steamcraft:steel_plate_from_steel_ingot_stonecutting",
+      "text": "Steel Plate from the Stonecutter."
+    }
+  ]
+}

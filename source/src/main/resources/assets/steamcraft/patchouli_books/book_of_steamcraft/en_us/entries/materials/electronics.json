@@ -1,0 +1,28 @@
+{
+  "name": "Electronics",
+  "icon": "steamcraft:circuit_board",
+  "category": "steamcraft:materials",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Electronics",
+      "text": "Electronic components are the building blocks of SteamCraft machines. You will need $(bold)Wire$() and $(bold)Circuit Boards$() for almost every powered device. Wire is made from Copper Rods; Circuit Boards combine Wire with Copper Coils and an Iron Plate."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:wire",
+      "text": "Wire — crafted from Copper Rods."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:circuit_board",
+      "text": "Circuit Board — the core component in batteries, scanners, and monitors."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tip",
+      "text": "Set up a steady supply of Copper early on — you will use a lot of it. A $(bold)Copper Coil$() requires several Copper Rods, and a single Circuit Board uses two coils. Plan ahead and stockpile before starting big builds."
+    }
+  ]
+}

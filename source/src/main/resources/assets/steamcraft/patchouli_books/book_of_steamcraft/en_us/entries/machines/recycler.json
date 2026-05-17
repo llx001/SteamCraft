@@ -1,0 +1,34 @@
+{
+  "name": "Recycler",
+  "icon": "steamcraft:recycler",
+  "category": "steamcraft:machines",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:recycler",
+      "title": "Recycler",
+      "text": "The Recycler turns waste into useful resources. It needs no energy — just feed it items using a $(bold)hopper$() and collect the output from the other side with another hopper. Processing takes about 2 seconds per item."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rotten Food → Biomass",
+      "text": "When food expires in your inventory it becomes $(bold)Rotten Food$(). Drop that rotten food into the Recycler and it becomes $(bold)Biomass$(). Biomass works just like bonemeal — use it to grow your crops faster. Grow food, eat food, rot scraps, grow more food!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Old Tools → Materials",
+      "text": "Tools and armour can be recycled back into raw materials. $(bold)Plastic tools and armour$() give back a Plastic Sheet. $(bold)Steel tools$() give back a Steel Ingot. Vanilla tools return their base material too!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Failure Rate",
+      "text": "Recycling isn't perfect — there's a $(bold)30% chance$() that the recycler fails and the item is lost. This represents real-world recycling, where not everything can always be recovered. Right-click the recycler to inspect what's inside."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:recycler",
+      "text": "Use hoppers to automate the input and output."
+    }
+  ]
+}

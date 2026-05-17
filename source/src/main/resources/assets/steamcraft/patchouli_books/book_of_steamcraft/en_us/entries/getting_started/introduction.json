@@ -1,0 +1,23 @@
+{
+  "name": "Introduction",
+  "icon": "minecraft:book",
+  "category": "steamcraft:getting_started",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Welcome to SteamCraft!",
+      "text": "SteamCraft adds real environmental consequences to Minecraft. The air around you can become polluted. Food goes bad if you don't store it properly. The choices you make — how you build, what you burn, and what you throw away — all matter."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How It All Connects",
+      "text": "Burning things in furnaces pollutes the air. Bad air hurts you, your crops, and your torches. You can fight pollution with the Air Scrubber. You can measure it with the Environmental Monitor. And you can power all of it with solar-charged batteries."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Your First Steps",
+      "text": "Start by crafting a $(bold)Portable Scanner$() to check the air quality around you. Then craft a $(bold)Power Bank$() and place it somewhere with open sky to charge it in sunlight. This book will guide you through the rest!"
+    }
+  ]
+}

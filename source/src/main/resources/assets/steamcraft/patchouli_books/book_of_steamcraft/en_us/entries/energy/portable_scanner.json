@@ -1,0 +1,24 @@
+{
+  "name": "Portable Scanner",
+  "icon": "steamcraft:portable_scanner",
+  "category": "steamcraft:energy",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "steamcraft:portable_scanner",
+      "title": "Portable Scanner",
+      "text": "The Portable Scanner shows you the air quality wherever you are. Hold it in your hand to see the CO2, Oxygen, and Toxin bars on your screen. It holds $(bold)5,000 FE$() and drains $(bold)2 FE per tick$() while active."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Using It",
+      "text": "$(bold)Sneak + right-click$() to turn the scanner on or off. When it runs out of energy, it turns off automatically. Recharge it by placing it in a Power Bank's slot. The scanner shows the same HUD as the hazmat helmet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "steamcraft:portable_scanner",
+      "text": "Useful before you have a full hazmat suit."
+    }
+  ]
+}

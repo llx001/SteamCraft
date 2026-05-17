@@ -1,0 +1,15 @@
+{
+  "name": "Book of SteamCraft",
+  "landing_text": "Welcome to SteamCraft! This book will teach you everything you need to know about air quality, energy, food, and machines. The world reacts to how you treat it — read on to find out how!",
+  "book_texture": "patchouli:textures/gui/book_blue.png",
+  "model": "patchouli:book_blue",
+  "text_color": "000000",
+  "header_color": "1F4E79",
+  "nameplate_color": "FFFFFF",
+  "link_color": "2255CC",
+  "link_hover_color": "6699FF",
+  "use_resource_pack": true,
+  "version": "1",
+  "subtitle": "A Guide to a Cleaner World",
+  "creative_tab": "steamcraft:steamcraft_items_group_items"
+}

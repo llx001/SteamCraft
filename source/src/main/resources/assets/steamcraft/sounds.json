@@ -1,0 +1,11 @@
+{
+  "block.fridge.hum": {
+    "sounds": [
+      {
+        "name": "steamcraft:block/fridge_hum",
+        "stream": true
+      }
+    ]
+  }
+}
+
