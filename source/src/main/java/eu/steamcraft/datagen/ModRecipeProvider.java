@@ -302,7 +302,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .pattern(" R ")
                 .pattern("IiI")
                 .pattern(" R ")
-                .input('R', ModItems.RUBBER)
+                .input('R', Items.REDSTONE)
                 .input('I', ModItems.IRON_PLATE)
                 .input('i', ModItems.IRON_ROD)
                 .criterion(hasItem(ModItems.IRON_PLATE), conditionsFromItem(ModItems.IRON_PLATE))
